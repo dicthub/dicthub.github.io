@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: simple 
 title: QuickStart
 group: getting-started
 redirect_from:
@@ -31,11 +31,12 @@ Get translation result from one-click:
 
 * Click the {%- include icons/dicthub.svg width="1em" height="1em" class="d-inline mx-1" -%} on browser extension bar
 * Or Press <kbd>Alt + w</kbd> when text selected
-![Popup]({{ site.baseurl }}/assets/img/home_slide_1.png)
+
+<img class="w-100" src="{{ site.baseurl }}/assets/img/home_slide_1.png" />
 
 ### Show overlay for query
 
 * Press <kbd>Alt</kbd>, then `double click` to select text
 * Or `right click`, then select {%- include icons/dicthub.svg width="1em" height="1em" class="d-inline mx-1" -%} from context menu.
 
-![Overlay]({{ site.baseurl }}/assets/img/home_slide_2.png)
+<img class="w-100" src="{{ site.baseurl }}/assets/img/home_slide_2.png" />

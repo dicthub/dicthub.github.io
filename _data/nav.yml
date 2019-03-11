@@ -1,0 +1,21 @@
+- title: Getting started
+  pages:
+    - title: Introduction
+    - title: Quick Start
+
+- title: Manual
+  pages:
+    - title: Install
+    - title: Config
+
+- title: Plugins
+
+- title: Development
+  pages:
+    - title: Plugin
+
+- title: About
+  pages:
+    - title: Overview
+    - title: Privacy
+    - title: License

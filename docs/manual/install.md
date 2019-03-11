@@ -10,7 +10,7 @@ toc: false
 
 ## Stable
 
-* [<i class="fab fa-firefox"></i> Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/)
+* [<i class="fab fa-firefox"></i> Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/dicthub/)
 * [<i class="fab fa-chrome"></i> Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
 
 ## Development

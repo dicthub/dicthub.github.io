@@ -10,6 +10,14 @@ redirect_from:
 toc: false
 ---
 
+<div class="alert alert-info" role="alert">
+Can't wait! Download and try first:
+</div>
+
+[![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://github.com/dicthub/DictHubExtension/releases/download/v1.0.1/chrome.crx)
+[![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](https://addons.mozilla.org/en-US/firefox/addon/dicthub/)
+[![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](https://www.microsoft.com/en-us/store/collections/EdgeExtensions/pc/c)
+
 ## Meet DictHub..
 
 <i class="far fa-thumbs-up"></i>  **DictHub is designed for..**
@@ -28,8 +36,7 @@ DictHub extension is built with to components:
 * DictHub extension framework which listens user query event and passes to plugins
 * DictHub plugins fetch web result of sources, convert result to html content and pass to extension to render.
 
-![DictHubFlow]({{ site.baseurl }}/assets/img/DictHubFlow.svg)
-
+<img src="{{ site.baseurl }}/assets/img/DictHubFlow.svg" class="mw-100" />
 
 Long story short, DictHub does nothing more than fetching the translation webpage (e.g. GoogleTranslation) and render on same webpage.
 

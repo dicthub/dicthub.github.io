@@ -11,12 +11,12 @@ toc: false
 ## Stable
 
 * [<i class="fab fa-firefox"></i> Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/dicthub/)
-* [<i class="fab fa-chrome"></i> Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+* [<i class="fab fa-chrome"></i> Chrome Web Store](https://chrome.google.com/webstore/detail/dicthub/cibocdpeaeganigafnnofchcliihpchn)
 
 ## Development
 
-* [<i class="fab fa-firefox"></i> Firefox Beta release](https://github.com/dicthub/DictHubExtension/releases)
-* [<i class="fab fa-chrome"></i> Chrome Beta release](https://github.com/dicthub/DictHubExtension/releases)
+* [<i class="fab fa-firefox"></i> Firefox Beta release](https://github.com/dicthub/DictHubExtension/releases/download/v1.0.1/firefox.zip)
+* [<i class="fab fa-chrome"></i> Chrome Beta release](https://github.com/dicthub/DictHubExtension/releases/download/v1.0.1/chrome.crx)
 
 ## From source
 

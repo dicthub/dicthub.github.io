@@ -11,10 +11,10 @@ toc: false
 ---
 
 <div class="alert alert-info" role="alert">
-Can't wait! Download and try first:
+Can't wait? Download and try first:
 </div>
 
-[![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://github.com/dicthub/DictHubExtension/releases/download/v1.0.1/chrome.crx)
+[![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://chrome.google.com/webstore/detail/dicthub/cibocdpeaeganigafnnofchcliihpchn)
 [![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](https://addons.mozilla.org/en-US/firefox/addon/dicthub/)
 [![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](https://www.microsoft.com/en-us/store/collections/EdgeExtensions/pc/c)
 

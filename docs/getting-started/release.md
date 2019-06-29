@@ -12,6 +12,13 @@ toc: false
 
 See also details on [github release](https://github.com/dicthub/DictHubExtension/releases)
 
+### DictHubExtension-1.0.3
+This is a minor release.
+* New feature:
+  * Automatically upgrade plugin versions
+* Improvements:
+  * Automatically detect google translation domain in ExpressSetup
+
 ### DictHubExtension-1.0.2
 This is a minor release.
 * Improvements:

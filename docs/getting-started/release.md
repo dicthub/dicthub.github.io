@@ -12,6 +12,13 @@ toc: false
 
 See also details on [github release](https://github.com/dicthub/DictHubExtension/releases)
 
+### DictHubExtension-1.0.4
+This is a bug fix release.
+* Bug Fixes:
+  * Fix language detection issue with bing api change
+  * Enable multiple lang detection (google as well) to avoid single source failure
+  * Remove unneeded “max-translation-result” settings  
+
 ### DictHubExtension-1.0.3
 This is a minor release.
 * New feature:

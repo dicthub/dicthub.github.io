@@ -12,6 +12,12 @@ toc: false
 
 See also details on [github release](https://github.com/dicthub/DictHubExtension/releases)
 
+### DictHubExtension-1.0.5
+This is a minor feature updates.
+* New feature:
+  * Enable detection on local file. file://*/*
+  * Show version update notice when available.
+
 ### DictHubExtension-1.0.4
 This is a bug fix release.
 * Bug Fixes:
